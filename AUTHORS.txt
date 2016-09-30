@@ -1,0 +1,13 @@
+Developing Group
+----------------
+Zia Lab (www.zia-lab.com)
+Brown University School of Engineering
+Providence, RI
+
+Authors
+-------
+Chris Dodson
+Alex Hirsch (alexander_hirsch@brown.edu) 
+Sinan Karaveli
+Jon Kurvits
+Rashid Zia
